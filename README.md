@@ -1,5 +1,6 @@
-# ruby-demo
-# Declaring Variables in Ruby
+# Ruby-Demo
+
+## Declaring Variables in Ruby
 
 ### Local Variables
 
